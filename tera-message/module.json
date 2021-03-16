@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-message",
+    "options": {
+        "niceName": "TERA-Message",
+        "guiName": "TERA-Message"
+    },
+    "author": "ZC",
+    "description": "Вывод цветного текста",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/tera-message/"],
+    "supportUrl": "https://github.com/tera-mod/tera-message/issues",
+    "version": "v 92.04"
+}

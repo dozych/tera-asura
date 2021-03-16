@@ -1,0 +1,18 @@
+{
+  "author": "seraphinush . Saegusae",
+  "conflict": ["loot","reserve-loot"],
+  "description": "tera-toolbox module to loot items automatically",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.me/seraphinush",
+  "name": "auto-loot-old",
+  "options": {
+    "niceName": "auto-loot-old",
+    "reloadable": true,
+    "settingsVersion": 1,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/ylennia-archives/auto-loot-old/master/"],
+  "supportUrl": "https://github.com/ylennia-archives/auto-loot-old/blob/master/README.md",
+  "version": "1.46.06.v99.02"
+}

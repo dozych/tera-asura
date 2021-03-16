@@ -1,0 +1,16 @@
+{
+	"files": {
+		"index.js": "143d17eef4a9382d4bfc3843de51ed87af8da40afd1ce51d4c181ce56e70ca5d",
+		"module.json": "77bdaf62e553d484aa119ba6fb36cd16f7ba8d67f65d2498a885510e4c1fbfe4"
+	},
+	"defs": {
+		"C_GACHA_TRY": 1,
+		"C_PLAYER_LOCATION": 5,
+		"C_USE_ITEM": 3,
+		"S_GACHA_END": 1,
+		"S_GACHA_START": 1,
+		"S_INVEN": 18,
+		"S_SYSTEM_MESSAGE": 1,
+		"S_SYSTEM_MESSAGE_LOOT_ITEM": 1
+	}
+}

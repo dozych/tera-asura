@@ -1,0 +1,19 @@
+{
+	"gender": ["male", "female"],
+	"race": ["human", "highelf", "aman", "castanic", "popori", "baraka"],
+	"class": [
+		"warrior",
+		"lancer",
+		"slayer",
+		"berserker",
+		"sorcerer",
+		"archer",
+		"priest",
+		"elementalist",
+		"soulless",
+		"engineer",
+		"fighter",
+		"assassin",
+		"glaiver"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": true,
+	"name": "box-opener-asura",
+	"author": "doz",
+	"description": "Mass-Opens boxes",
+	"version": "1.0",
+	"options": {
+		"niceName": "box",
+		"guiName": "Generic Box Opener & Item user"
+	},
+	"servers": ["https://raw.githubusercontent.com/dozych/box-opener-asura/master/"]
+}
